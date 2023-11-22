@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
