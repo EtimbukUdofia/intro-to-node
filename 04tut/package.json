@@ -1,0 +1,23 @@
+{
+  "name": "04tut",
+  "version": "1.0.0",
+  "description": "Node Events",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "intro-to-node"
+  },
+  "author": "Etimbuk Udofia",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "uuid": "^9.0.1"
+  }
+}
