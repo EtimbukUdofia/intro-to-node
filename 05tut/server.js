@@ -2,6 +2,7 @@ const logEvents = require("./logEvents");
 
 const EventEmitter = require("events");
 
+//my extended emmiter object
 class MyEmitter extends EventEmitter {}
 
 //initialize object
