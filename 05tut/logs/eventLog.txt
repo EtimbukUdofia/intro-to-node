@@ -1,2 +1,0 @@
-20231123	23:18:48	b3dea014-cd9e-4d8d-8f11-fef350a77b40	Log event Emitted!
-20231123	23:20:15	b1546e4a-4a8a-4526-b586-dad1291f4110	Log event Emitted!
